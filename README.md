@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DattaSuroshe77
 - 👀 I’m interested in ...programming 
-- 🌱 I’m currently learning ...javaScript
+- 🌱 I’m currently learning ...Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
